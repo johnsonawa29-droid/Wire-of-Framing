@@ -15,4 +15,16 @@ It’s usually made of simple boxes, lines, and labels to show where things like
 
 * 
 Acts as a blueprint – Just like a building plan, it guides the next steps: visual design, content creation, and development.
-* 
+
+
+
+  # Key element of wireframe
+
+  * layout structure
+ 
+  * Navigation
+ 
+  * content placement
+ 
+  * functionality
+  
