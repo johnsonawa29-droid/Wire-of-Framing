@@ -28,7 +28,9 @@ Acts as a blueprint – Just like a building plan, it guides the next steps: vis
  
   * functionality
  
-    # what is layout structure?    * The layout structure is the way elements (like text, images, buttons, and menus) are arranged on a page or screen.
+    # what is layout structure?
+    
+     * The layout structure is the way elements (like text, images, buttons, and menus) are arranged on a page or screen.
 Think of it like how furniture is arranged in a living room — the sofa, TV, table, and chairs all have their places so the room feels comfortable and easy to use.
 
 #  How does it contribute to design?
@@ -45,7 +47,10 @@ Supports the purpose – The layout helps the design achieve its goal, like maki
 
   
 
-  # what is Navigation?       * In simple terms, navigation is the way users move around a website or app to find what they need.
+  # what is Navigation?     
+  
+  * In simple terms, navigation is the way users move around a website or app to find what they need.
+  * 
 It’s like road signs in a city – they guide you so you don’t get lost. On a website, navigation is usually things like the menu bar, links, buttons, or icons that help users go from one page to another.
 
 #  How does navigation contribute to design?
