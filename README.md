@@ -113,7 +113,7 @@ Supports efficiency – Good functionality saves time and prevents frustration.
   ## "Types of wireframe"
   
 
-#  Low-fidelity (Low-fi)
+*  Low-fidelity (Low-fi)
 
 What it is: A rough, simple sketch or outline of a design.
 
