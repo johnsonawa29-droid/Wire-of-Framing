@@ -107,7 +107,44 @@ Supports efficiency – Good functionality saves time and prevents frustration.
 
  Design shows how things look, functionality makes them work. Both must go together for a successful product.
 
-  
+ Low-fidelity (Low-fi)
+
+What it is: A rough, simple sketch or outline of a design.
+
+Usually black and white, with boxes and lines instead of real images and colors.
+
+Think of it like a draft or doodle of an idea.
+
+How it’s used:
+
+To brainstorm ideas quickly.
+
+To test different layout options without spending too much time.
+
+To get early feedback from team members or clients.
+
+ Example: Drawing a homepage with a rectangle for a header, lines for text, and an “X” for an image.
+
+#    High-fidelity (High-fi)
+
+What it is: A detailed, polished design that looks and works almost like the final product.
+
+Includes real text, images, colors, icons, and sometimes interactive elements (clickable prototypes).
+
+Think of it like a near-finished mockup.
+
+How it’s used:
+
+To show clients or stakeholders how the final product will look.
+
+To test user experience (UX) and interactions.
+
+To hand over to developers as a blueprint for building the real thin\
+
+A clickable prototype of an app with real buttons, colors, and navigation.
+
+
+
 
 
   ## "Types of wireframe"
