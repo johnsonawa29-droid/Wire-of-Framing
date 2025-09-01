@@ -110,7 +110,7 @@ Supports efficiency – Good functionality saves time and prevents frustration.
   
 
 
-  #  "Types of wireframe"
+  ###  "Types of wireframe"
 
 #  Low-fidelity (Low-fi)
 
