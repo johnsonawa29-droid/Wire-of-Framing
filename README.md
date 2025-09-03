@@ -147,7 +147,7 @@ A clickable prototype of an app with real buttons, colors, and navigation.
 
 
 
-  # Types of wireframe
+  # Types of Wireframes
   
 
 *  Low-fidelity (Low-fi)
